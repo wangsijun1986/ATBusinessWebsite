@@ -18,7 +18,8 @@
     "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
     "Newtonsoft.Json": "9.0.1",
     "AutoMapper": "5.2.0",
-    "Unity": "4.0.1"
+    "Unity": "4.0.1",
+    "Dapper": "1.50.2"
   },
 
   "tools": {
